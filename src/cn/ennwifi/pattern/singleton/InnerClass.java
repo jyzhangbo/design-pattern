@@ -1,6 +1,8 @@
 package cn.ennwifi.pattern.singleton;
 
 /**
+ * 使用内部类保证线程安全.
+ * 
  * @author zhangbo
  *
  */
